@@ -4,8 +4,8 @@
 <tspan x="10" y="26">23 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">├── semver-utils@1.1.0</tspan>
-<tspan x="10" y="90">├── fast-diff@1.1.1</tspan>
+<tspan x="10" y="74">├── fast-diff@1.1.1</tspan>
+<tspan x="10" y="90">├── semver-utils@1.1.0</tspan>
 <tspan x="10" y="106">├── semver@5.3.0</tspan>
 <tspan x="10" y="122">├── async@1.5.2</tspan>
 <tspan x="10" y="138">├── closest-bower@1.1.4</tspan>
